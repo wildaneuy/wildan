@@ -1,0 +1,42 @@
+index.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JQuery</title>
+</head>
+<style>
+  .red {
+    color: red;
+  }
+
+  .blue {
+    color: blue;
+  }
+</style>
+<body>
+
+ <!---- <section>
+<p> hello world</p>
+<p id="hello">hello</p>
+<div id="hello">lorem</div>
+<p class="world">world</p>
+<div class="world">lorem</div>
+  </section> -->
+  <section>
+    <p id="text">hello world</p>
+    <input type="text">
+  </section>
+  <!---  <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script> -->
+
+  <script src="jquery.js"></script>
+  <script src="main.js"></script>
+    
+</body>
+</html>
+
+</body>
+</html>
